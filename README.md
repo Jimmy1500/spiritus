@@ -8,3 +8,6 @@ Convolutional Neural Network
 
 * Ideas and designs by author  
     [CNN Design - Work in progress](doc/CNN.pdf)
+
+* Theoretical references  
+    [Deep Learning](http://www.deeplearningbook.org/)  
