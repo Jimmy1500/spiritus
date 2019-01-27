@@ -13,7 +13,6 @@
 
 # Compiled Dynamic libraries
 *.so
-*.dylib
 *.dll
 
 # Fortran module files
@@ -30,3 +29,16 @@
 *.exe
 *.out
 *.app
+
+# Vim related
+*.vim
+*.swp
+
+# Cscope and ctags out files
+cscope.*
+tags
+
+# Build directory
+Linux_x86_64/
+Unix_x86_64/
+Win_x86_64/
