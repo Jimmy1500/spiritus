@@ -1,6 +1,6 @@
 # Project Spiritus
 ----
-Convolutional Neural Network
+Convolutional Neural Network(CNN) + Implicit Feature Map(Synapse) Experimental Project
 
 ## Advanced Artificial Intelligence Demonstration ##
 
